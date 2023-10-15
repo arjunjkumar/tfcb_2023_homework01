@@ -14,7 +14,7 @@ Here's an example of a sentence in Markdown.
 Here's a link to my [Github profile](https://github.com/arjunjkumar).
 
 ## And a cute photo
-![I think this is an ant. (/images/fortis.jpg)]
+![I think this is an ant. (images/fortis.jpg)]
 
 ## And a table
 | Quarter | Rotation Lab |
